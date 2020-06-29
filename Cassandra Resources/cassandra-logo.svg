@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.1 (35376) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="72.1632162%" y1="100%" x2="24.5278391%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#D40249" offset="0%"></stop>
+            <stop stop-color="#FFA413" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Artboard-2" transform="translate(-136.000000, -34.000000)" stroke="#FFFFFF" fill="url(#linearGradient-1)">
+            <g id="Group-2" transform="translate(27.000000, 34.000000)">
+                <g id="Group" transform="translate(109.000000, 0.000000)">
+                    <path d="M37.1055781,73.5915069 L73.4297447,37.113547 L37.1055781,46.1646189 L37.1055781,73.5915069 Z M37.1055781,73.5915069 L0.7814115,37.113547 L37.1055781,46.1646189 L37.1055781,73.5915069 Z M37.1055781,46.1646189 L73.4297447,37.113547 L37.1055781,0.628126129 L37.1055781,46.1646189 Z M37.1055781,46.1646189 L0.7814115,37.113547 L37.1055781,0.628126129 L37.1055781,46.1646189 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

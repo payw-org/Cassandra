@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo.png</file>
+        <file>logo.svg</file>
+        <file>movie.svg</file>
+        <file>seungjin.png</file>
+        <file>dongwan.png</file>
+        <file>chihoon.png</file>
+        <file>haemin.png</file>
+        <file>kyuhwan.png</file>
+        <file>movie.png</file>
+        <file>radioButtonChecked.svg</file>
+        <file>radioButtonUnchecked.svg</file>
+        <file>radioButtonUnchecked.png</file>
+        <file>radioButtonChecked.png</file>
+        <file>NanumSquareRegular.ttf</file>
+        <file>NanumSquareBold-Bold.ttf</file>
+        <file>NanumSquareExtraBold-ExtBd.ttf</file>
+        <file>arrowLeft.png</file>
+        <file>arrowRight.png</file>
+        <file>number6.png</file>
+        <file>number5.png</file>
+        <file>number4.png</file>
+        <file>number3.png</file>
+        <file>number2.png</file>
+        <file>number1.png</file>
+    </qresource>
+</RCC>
